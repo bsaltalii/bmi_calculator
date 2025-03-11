@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BMI CALCULATOR APP
 # 📱 BMI Calculator - Flutter 
 
