@@ -1,18 +1,20 @@
 <<<<<<< HEAD
-# bmi_calculator
+# BMI CALCULATOR APP
+# 📱 BMI Calculator - Flutter 
 
-A new Flutter project.
+Bu proje, **Flutter** ile geliştirilmiş **Vücut Kitle İndeksi (BMI) Hesaplayıcı** uygulamasıdır. Kullanıcı, **boy ve kilo** bilgilerini girerek vücut kitle indeksini hesaplayabilir.
 
-## Getting Started
+## 🚀 Özellikler
+- Kullanıcıdan **boy ve kilo** bilgilerini alır.
+- **BMI sonucunu hesaplar** ve **kategoriye göre yorum yapar**.
+- Erkek ve kadın kullanıcılar için **farklı tasarım öğeleri** içerir.
+- **Responsive UI** sayesinde tüm cihazlarda çalışır.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Kullanılan Teknolojiler
+- **Flutter** (Dart Programlama Dili)
+- **Provider (State Management)**
+- **Material Design**
+- **Dart Math Kütüphanesi**
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 22af87f (initial commit)
